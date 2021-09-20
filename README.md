@@ -1,8 +1,8 @@
-<h1 align="center">Carousel echo en HTML / CSS / JS</h1>
+<h1 align="center">Carousel en HTML / CSS / JS</h1>
 
 
 
-
+![Carousel](https://user-images.githubusercontent.com/78152546/133947405-26a045cb-9ce7-45b4-bfb2-2420014b5bd1.png)
 
 
 <h3 align="center">Languages used in this project</h3>
